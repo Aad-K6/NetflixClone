@@ -1,3 +1,9 @@
+
+![netflix1](https://github.com/Aad-K6/NetflixClone/assets/121332638/a6d4a798-1f35-42d9-90d1-f075a61c6797)
+![netflix2](https://github.com/Aad-K6/NetflixClone/assets/121332638/7c744ec2-8167-4c1c-b7e4-5a345a708829)
+![netflix3](https://github.com/Aad-K6/NetflixClone/assets/121332638/327aa996-1bb8-4e6a-b97d-b287806cce57)
+![netflix4](https://github.com/Aad-K6/NetflixClone/assets/121332638/a2920962-7755-4905-8a81-b5702ed2177d)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
