@@ -7,9 +7,28 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Install Node.js:
+Make sure you have Node.js installed on your machine. You can download it from the official Node.js website. When you install Node.js, it usually comes with npm (Node Package Manager).
 
+Install Yarn (optional):
+If you prefer using Yarn, you can install it by following the instructions on the Yarn installation page.
+
+Install pnpm (optional):
+If you prefer using pnpm, you can install it by following the instructions on the pnpm installation page.
+
+Navigate to your project directory:
+Open a terminal or command prompt and navigate to the root directory of your project using the cd command.
+
+Install project dependencies:
+Run the appropriate command to install the project dependencies. If your project uses npm, run:
 First, run the development server:
-
+```bash
+install npm
+# or
+yarn
+# or
+pnpm install
+```
 ```bash
 npm run dev
 # or
